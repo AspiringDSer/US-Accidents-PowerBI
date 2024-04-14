@@ -93,7 +93,9 @@ The Power BI report is structured to provide users with interactive and insightf
 
 **Future Enhancements:** In future developments, I plan to enhance the report with additional visualizations, such as trend analysis charts, and further improve the user experience with more interactive elements and storytelling features.
 
-# Challenges and Solutions <a name='Challenges-and-Solutions'></a>
+<a name='Challenges-and-Solutions'></a>
+# Challenges and Solutions
+
 [Go to TOC](#top)
 
 ![US Accidents - Pic 4](https://github.com/AspiringDSer/US-Accidents-PowerBI/assets/79289892/0d348879-c902-450d-9457-9590b492d8a6)
