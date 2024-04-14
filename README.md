@@ -9,7 +9,9 @@
 5. [Challenges and Solutions](#Challenges-and-Solutions)
 6. [Visual Samples](#Visual-Samples)
 7. [Future Developments](#Future-Developments)
-# Project Overview <a name='Project-Overview'></a>
+
+<a name='Project-Overview'></a>
+# Project Overview
 [Go to TOC](#top)
 
 **Skills Demonstrated:** Power BI, Data Modeling (Star Schema), Python,  DAX, Power Query 
@@ -27,7 +29,9 @@ Please feel free to reach out to me at jzqmah@gmail.com or message me on LinkedI
 ![US Accidents - Pic 1](https://github.com/AspiringDSer/US-Accidents-PowerBI/assets/79289892/5be5febe-bf37-4134-a417-5acba9c5250e)
 ![US Accidents - Pic 2](https://github.com/AspiringDSer/US-Accidents-PowerBI/assets/79289892/3c154c3f-4335-4a27-9ead-a5eb868f8330)
 ![US Accidents - Pic 3](https://github.com/AspiringDSer/US-Accidents-PowerBI/assets/79289892/0c963226-f775-48f4-9a5e-11f0730c0666)
-# Data Sources <a name='Data-Sources'></a>
+
+<a name='Data-Sources'></a>
+# Data Sources
 [Go to TOC](#top)
 
 The project's visualizations and analyses are based on [US Accidents (2016-2023) Kaggle Dataset](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents). 
@@ -39,7 +43,8 @@ This is a countrywide car accident dataset that covers **49 states of the USA**
 - **Preprocessing:** I utilized Python (Pandas and Numpy Libraries) and Jupyter Notebook to preprocess the data, creating dimensional and fact tables using a star schema approach.
 - **Integration with Power BI:** The processed tables were seamlessly integrated into Power BI, enabling the creation of insightful visualizations and analyses.
 
-# Data Model <a name='Data-Model'></a>
+<a name='Data-Model'></a>
+# Data Model
 [Go to TOC](#top)
 
 ![datamodel](https://github.com/AspiringDSer/US-Accidents-PowerBI/assets/79289892/a65b3f39-85cc-45f4-b78e-060be331de10)
@@ -68,7 +73,9 @@ For a detailed exploration of the data modeling process, please refer to `Data M
 | DimBinaryFlag   | binary_id          | binary_id                     |
 | DimTimeofDay    | time_of_day_id     | time_of_day_id                |
 | DimDate         | Date (PK)          | Date                          |
-# Report Structure <a name='Report-Structure'></a>
+
+<a name='Report-Structure'></a>
+# Report Structure
 [Go to TOC](#top)
 
 The Power BI report is structured to provide users with interactive and insightful analysis of the US Accidents dataset. It allows navigation between three main reports, each focusing on different aspects of the data:
@@ -114,7 +121,9 @@ The implementation of the nested loop required careful planning and testing to e
 The following is the DAX measure used for calculating the percentage of total accidents:
 
 ![US Accidents - Pic 5](https://github.com/AspiringDSer/US-Accidents-PowerBI/assets/79289892/d5b5515e-de2d-4bff-96be-e5dd2ff1e68e)
-# Visual Samples <a name='Visual-Samples'></a>
+
+<a name='Visual-Samples'></a>
+# Visual Samples
 [Go to TOC](#top)
 
 **Power BI Features**
@@ -131,7 +140,9 @@ This chart contains a feature that highlights the bar with the highest value in 
 ![US Accidents - Pic 8](https://github.com/AspiringDSer/US-Accidents-PowerBI/assets/79289892/42157183-085e-46db-a7a5-bc4d5d5344a0)
 
 This interactive chart features dynamic parameters that allow users to customize the Y-axis variable, providing flexibility in exploring the data.
-# Future Developments <a name='Future-Developments'></a>
+
+<a name='Future-Developments'></a>
+# Future Developments
 [Go to TOC](#top)
 
 In future developments, I plan to enhance the reports with additional visualizations and analytical features to provide more comprehensive insights into the US Accidents dataset. Specifically, I aim to:
