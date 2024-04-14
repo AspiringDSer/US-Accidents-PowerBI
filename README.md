@@ -71,7 +71,7 @@ For a detailed exploration of the data modeling process, please refer to `Data M
 
 | Dimension Table | Surrogate Key (PK) | Fact Table - Foreign Key (FK) |
 | --------------- | ------------------ | ----------------------------- |
-| Dim Location    | location_id        | location_id                   |
+| DimLocation     | location_id        | location_id                   |
 | DimWeather      | weather_id         | weather_id                    |
 | DimBinaryFlag   | binary_id          | binary_id                     |
 | DimTimeofDay    | time_of_day_id     | time_of_day_id                |
