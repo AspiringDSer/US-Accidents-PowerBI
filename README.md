@@ -6,7 +6,7 @@
 2. [Data Sources](#Data-Sources)
 3. [Data Model](#Data-Model)
 4. [Report Structure](#Report-Structure)
-5. [Challenges and Solutions](#Challenge-and-Solutions)
+5. [Challenges and Solutions](#Challenges-and-Solutions)
 6. [Visual Samples](#Visual-Samples)
 7. [Future Developments](#Future-Developments)
 # Project Overview <a name='Project-Overview'></a>
