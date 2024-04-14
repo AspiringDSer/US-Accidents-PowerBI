@@ -14,7 +14,10 @@
 # Project Overview
 [Go to TOC](#top)
 
-**Skills Demonstrated:** <span style="background-color: #f0f0f0; padding: 3px 5px; border-radius: 3px;">Power BI</span>, <span style="background-color: #f0f0f0; padding: 3px 5px; border-radius: 3px;">Data Modeling (Star Schema)</span>, <span style="background-color: #f0f0f0; padding: 3px 5px; border-radius: 3px;">Python</span>, <span style="background-color: #f0f0f0; padding: 3px 5px; border-radius: 3px;">DAX</span>, <span style="background-color: #f0f0f0; padding: 3px 5px; border-radius: 3px;">Power Query</span> 
+| Skills Demonstrated |                             |        |
+| ------------------- | --------------------------- | ------ |
+| PowerBI             | Data Modeling (Star Schema) | Python |
+| DAX                 | Power Query                 |        |
 
 I have developed a comprehensive Power BI dashboard for the US Accidents Dataset (2016-2023), offering a meaningful and interactive exploration of the data. Users can leverage the dashboard to gain valuable insights, make informed decisions, and construct compelling data-driven narratives.
 
