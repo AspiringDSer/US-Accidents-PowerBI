@@ -24,9 +24,9 @@ Please feel free to reach out to me at jzqmah@gmail.com or message me on LinkedI
 - **Dynamic DAX Measures:** Leveraging DAX, I have created a set of dynamic measures that adapt to the context of the data, providing users with powerful analytical capabilities.
 - **Real-world Applications:** The dashboard can be used for various applications, such as identifying car accident hotspot locations and studying the impact of precipitation or other environmental factors on accident occurrence.
 
-![[US Accidents - Pic 1.png]]
-![[US Accidents - Pic 2.png]]
-![[US Accidents - Pic 3.png]]
+![US Accidents - Pic 1](https://github.com/AspiringDSer/US-Accidents-PowerBI/assets/79289892/5be5febe-bf37-4134-a417-5acba9c5250e)
+![US Accidents - Pic 2](https://github.com/AspiringDSer/US-Accidents-PowerBI/assets/79289892/3c154c3f-4335-4a27-9ead-a5eb868f8330)
+![US Accidents - Pic 3](https://github.com/AspiringDSer/US-Accidents-PowerBI/assets/79289892/0c963226-f775-48f4-9a5e-11f0730c0666)
 # Data Sources <a name='Data-Sources'></a>
 [Go to TOC](#top)
 
@@ -42,7 +42,7 @@ This is a countrywide car accident dataset that covers **49 states of the USA**
 # Data Model <a name='Data-Model'></a>
 [Go to TOC](#top)
 
-![[datamodel.png]]
+![datamodel](https://github.com/AspiringDSer/US-Accidents-PowerBI/assets/79289892/a65b3f39-85cc-45f4-b78e-060be331de10)
 
 The project utilized **Dimensional Data Modeling** to structure the US Accidents dataset, employing the **star schema** to construct both Fact and Dimension Tables. This approach allows for efficient data storage and retrieval, enabling users to analyze the data from different perspectives easily.
 
@@ -96,7 +96,7 @@ The Power BI report is structured to provide users with interactive and insightf
 # Challenges and Solutions <a name='Challenges-and-Solutions'></a>
 [Go to TOC](#top)
 
-![[US Accidents - Pic 4.png]]
+![US Accidents - Pic 4](https://github.com/AspiringDSer/US-Accidents-PowerBI/assets/79289892/0d348879-c902-450d-9457-9590b492d8a6)
 
 One of the most challenging tasks in the project was visualizing the percentage of total accidents on a chart. The solution involved creating a complex DAX measure with nested loops to ensure the measure adapted correctly to changes in slicer selection.
 
@@ -111,22 +111,22 @@ The implementation of the nested loop required careful planning and testing to e
 
 The following is the DAX measure used for calculating the percentage of total accidents:
 
-![[US Accidents - Pic 5.png]]
+![US Accidents - Pic 5](https://github.com/AspiringDSer/US-Accidents-PowerBI/assets/79289892/d5b5515e-de2d-4bff-96be-e5dd2ff1e68e)
 # Visual Samples <a name='Visual-Samples'></a>
 [Go to TOC](#top)
 
 **Power BI Features**
 The following screenshots showcase some of the unique features found in Power BI report.
 
-![[Pasted image 20240412113113.png]]
+![US Accidents - Pic 6](https://github.com/AspiringDSer/US-Accidents-PowerBI/assets/79289892/214d353f-15bd-4479-af8d-ca3ec653f29e)
 
 This card visual is designed to show the percentage change in a selected year compared to the previous year. When a specific year is chosen, the card displays both the percentage change and whether it is a positive or negative difference compared to the previous year. This feature provides users with a clear and concise way to understand the year-over-year changes in the data, facilitating quick insights into trends and patterns.
 
-![[Pasted image 20240412113148.png]]
+![US Accidents - Pic 7](https://github.com/AspiringDSer/US-Accidents-PowerBI/assets/79289892/9705273a-1eaa-4b32-ae24-075279890e9f)
 
 This chart contains a feature that highlights the bar with the highest value in green and the lowest value in pink. This color differentiation helps viewers quickly identify these significant data points, adding clarity to the presentation. Each bar also represents the percentage of total accident cases, providing additional context for the data.
 
-![[Pasted image 20240412113313.png]]
+![US Accidents - Pic 8](https://github.com/AspiringDSer/US-Accidents-PowerBI/assets/79289892/42157183-085e-46db-a7a5-bc4d5d5344a0)
 
 This interactive chart features dynamic parameters that allow users to customize the Y-axis variable, providing flexibility in exploring the data.
 # Future Developments <a name='Future-Developments'></a>
